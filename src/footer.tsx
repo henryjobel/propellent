@@ -30,19 +30,13 @@ const Footer = () => {
             target="_blank"
             className="underline text-[#878787] hover:text-black hover:no-underline transition-all cursor-pointer duration-300 mx-[5px]"
           >
-            Victor Williams
+            Henry Jobel
           </a>
           - Copyright 2024
         </p>
       </div>
 
-      <Link
-        to="https://andrea-montini.lemonsqueezy.com/"
-        target="_blank"
-        className="text-base leading-[21.6px] tracking-[-0.48px] be-vietnam-pro-medium text-[#854dff] border border-[#854dff] bg-transparent rounded-lg px-[18px] py-2.5 md:flex items-center justify-center min-w-max"
-      >
-        Get Template
-      </Link>
+      
     </footer>
   );
 };
